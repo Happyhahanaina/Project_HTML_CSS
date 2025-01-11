@@ -1,0 +1,57 @@
+.main{
+    background-color:darksalmon;
+    height: 700px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.nav{
+    background-color: darkslategray;
+    color: white;
+    padding: 10px;
+}
+.nav h1{
+    margin-left: 50%;
+}
+.nav p{
+    margin-left: 47%;
+}
+.div1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.photo{
+    height: 200px;
+    width: 20%;
+    background-color: burlywood;
+    margin: 10px;
+    padding: 10px;
+}
+.akkuphoto{
+    height: 70%;
+    width: 80%;
+    background-color: blue;
+    margin: 10px;
+    padding: 10px;
+}
+#akuu{
+    background-image: url(akuu.jpg);
+    background-size:cover;
+}
+#love{
+    background-image: url(love.jpg);
+    background-size: cover;
+}
+#shagun{
+    background-image: url(shagun.jpg);
+    background-size: cover;
+}
+#moni{
+    background-image: url(moni.jpg);
+    background-size: cover;
+}
+#nehu{
+    background-image: url(nehu.jpg);
+    background-size: cover;
+}
